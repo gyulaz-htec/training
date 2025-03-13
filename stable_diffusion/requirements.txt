@@ -20,6 +20,6 @@ colossalai==0.2.7
 invisible-watermark==0.1.5
 diffusers==0.14.0
 cloudpathlib==0.13.0
-xformers==0.0.24
 bitsandbytes==0.37.2
 git+https://github.com/mlcommons/logging.git@4.0.0-rc2
+httpx==0.24.1
